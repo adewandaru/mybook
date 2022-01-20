@@ -1,4 +1,5 @@
-% Book Title
+Book Title
+==========
 
 # Chapter I
 ## Section 1
